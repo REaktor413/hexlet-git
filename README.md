@@ -1,2 +1,1 @@
-No code No pain
-experiment whith amed
+I love Python!
