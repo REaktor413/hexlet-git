@@ -1,3 +1,2 @@
-git is awesome!
-new line
-experiment whith amed
+I love Python!
+Python is the best 
